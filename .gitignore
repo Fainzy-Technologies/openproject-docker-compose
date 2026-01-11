@@ -3,3 +3,4 @@
 docker-compose.override.yml
 backups/
 .git.backup*
+.DS_Store*
