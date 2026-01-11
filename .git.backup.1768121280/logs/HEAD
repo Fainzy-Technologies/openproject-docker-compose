@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 6831d93c1b6b5fea20f76c0a10bbf2127561ac05 Nextafari <chinedue16@gmail.com> 1766460034 +0800	clone: from https://github.com/opf/openproject-docker-compose.git
+6831d93c1b6b5fea20f76c0a10bbf2127561ac05 0000000000000000000000000000000000000000 Nextafari <chinedue16@gmail.com> 1768118670 +0800	Branch: renamed refs/heads/stable/16 to refs/heads/master
+0000000000000000000000000000000000000000 6831d93c1b6b5fea20f76c0a10bbf2127561ac05 Nextafari <chinedue16@gmail.com> 1768118670 +0800	Branch: renamed refs/heads/stable/16 to refs/heads/master
+6831d93c1b6b5fea20f76c0a10bbf2127561ac05 1e4e0c74ca519700c55796e5c300213f583d83be Nextafari <chinedue16@gmail.com> 1768118703 +0800	commit: Feat: Initial commit to fainzy repo
+1e4e0c74ca519700c55796e5c300213f583d83be 1e4e0c74ca519700c55796e5c300213f583d83be Nextafari <chinedue16@gmail.com> 1768120875 +0800	checkout: moving from master to dev
+1e4e0c74ca519700c55796e5c300213f583d83be 1e4e0c74ca519700c55796e5c300213f583d83be Nextafari <chinedue16@gmail.com> 1768120890 +0800	checkout: moving from dev to master
